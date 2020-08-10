@@ -1,0 +1,1205 @@
+﻿Log file open, 08/05/20 14:23:25
+LogInit: Display: Running engine for game: ProjectGun
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.911782
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Radeon Pro 555X
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Engine.ini]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Engine.ini]
+[2020.08.05-18.23.25:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Engine.ini]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Engine.ini]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.05-18.23.25:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Engine.ini]
+[2020.08.05-18.23.25:716][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Engine.ini]
+[2020.08.05-18.23.25:719][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.05-18.23.25:719][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.05-18.23.25:720][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.05-18.23.25:720][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.05-18.23.25:720][  0]LogHAL: Display: Platform has ~ 16 GB [17066782720 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.05-18.23.25:720][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.05-18.23.25:720][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.05-18.23.25:720][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.05-18.23.25:721][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:721][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Scalability.ini]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.05-18.23.25:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Config/Windows/Engine.ini]
+[2020.08.05-18.23.25:722][  0]LogInit: Computer: DESKTOP-NTOTJRM
+[2020.08.05-18.23.25:722][  0]LogInit: User: smybr
+[2020.08.05-18.23.25:722][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.08.05-18.23.25:722][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.05-18.23.25:722][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.08.05-18.23.25:722][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.05-18.23.25:722][  0]LogMemory: Process Physical Memory: 115.00 MB used, 115.01 MB peak
+[2020.08.05-18.23.25:722][  0]LogMemory: Process Virtual Memory: 97.41 MB used, 97.41 MB peak
+[2020.08.05-18.23.25:722][  0]LogMemory: Physical Memory: 6765.83 MB used,  9510.32 MB free, 16276.15 MB total
+[2020.08.05-18.23.25:722][  0]LogMemory: Virtual Memory: 5165.92 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.08.05-18.23.25:726][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.05-18.23.25:755][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.05-18.23.25:756][  0]LogInit: Using OS detected language (en-US).
+[2020.08.05-18.23.25:756][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.05-18.23.25:761][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.05-18.23.25:934][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.05-18.23.25:973][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.05-18.23.25:973][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.05-18.23.26:112][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.05-18.23.26:112][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.05-18.23.26:112][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.05-18.23.26:112][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.05-18.23.26:190][  0]LogD3D11RHI:    0. 'Radeon Pro 555X' (Feature Level 11_0)
+[2020.08.05-18.23.26:190][  0]LogD3D11RHI:       4041/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.08.05-18.23.26:192][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.05-18.23.26:192][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.05-18.23.26:192][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.05-18.23.26:199][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.05-18.23.26:199][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2020.08.05-18.23.26:199][  0]LogWindows: EnumDisplayDevices:
+[2020.08.05-18.23.26:200][  0]LogWindows:    0. 'Radeon Pro 555X' (P:1 D:1)
+[2020.08.05-18.23.26:200][  0]LogWindows:    1. 'Radeon Pro 555X' (P:0 D:0)
+[2020.08.05-18.23.26:200][  0]LogWindows:    2. 'Radeon Pro 555X' (P:0 D:0)
+[2020.08.05-18.23.26:201][  0]LogWindows:    3. 'Radeon Pro 555X' (P:0 D:0)
+[2020.08.05-18.23.26:201][  0]LogWindows:    4. 'Radeon Pro 555X' (P:0 D:0)
+[2020.08.05-18.23.26:201][  0]LogWindows:    5. 'Radeon Pro 555X' (P:0 D:0)
+[2020.08.05-18.23.26:201][  0]LogWindows:    6. 'Radeon Pro 555X' (P:0 D:0)
+[2020.08.05-18.23.26:202][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2020.08.05-18.23.26:202][  0]LogD3D11RHI:     Adapter Name: Radeon Pro 555X
+[2020.08.05-18.23.26:202][  0]LogD3D11RHI:   Driver Version: Adrenalin 19.30.01.33 (internal:26.20.13001.33012, unified:26.20.13001.33012)
+[2020.08.05-18.23.26:202][  0]LogD3D11RHI:      Driver Date: 11-21-2019
+[2020.08.05-18.23.26:202][  0]LogRHI: Texture pool is 2404 MB (70% of 3434 MB)
+[2020.08.05-18.23.26:280][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.08.05-18.23.26:280][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.05-18.23.26:280][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.05-18.23.26:297][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.08.05-18.23.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.05-18.23.26:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.05-18.23.26:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.05-18.23.26:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.05-18.23.26:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.05-18.23.26:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.05-18.23.26:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.05-18.23.26:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.05-18.23.26:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.05-18.23.26:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.05-18.23.26:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.05-18.23.26:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.05-18.23.26:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.05-18.23.26:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.08.05-18.23.26:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.05-18.23.26:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.05-18.23.26:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.05-18.23.26:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.05-18.23.26:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.05-18.23.26:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.05-18.23.26:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.05-18.23.26:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.05-18.23.26:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.05-18.23.26:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.05-18.23.26:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.05-18.23.26:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.05-18.23.26:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.05-18.23.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.05-18.23.26:751][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.05-18.23.26:758][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.05-18.23.26:807][  0]LogShaderCompilers: Guid format shader working directory is -56 characters bigger than the processId version (../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Intermediate/Shaders/WorkingDirectory/7788/).
+[2020.08.05-18.23.26:807][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/smybr/AppData/Local/Temp/UnrealShaderWorkingDir/F227685541B09DBA9EB62D92045CE0A1/'.
+[2020.08.05-18.23.26:807][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.05-18.23.26:807][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.05-18.23.26:807][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.05-18.23.27:521][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.05-18.23.27:580][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/smybr/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.05-18.23.27:580][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/smybr/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.08.05-18.23.27:580][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.05-18.23.27:580][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.05-18.23.27:580][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.05-18.23.27:580][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.05-18.23.27:590][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.05-18.23.27:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.05-18.23.27:590][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.05-18.23.27:591][  0]LogDerivedDataCache: Using Local data cache path C:/Users/smybr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.05-18.23.27:591][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.05-18.23.27:591][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.05-18.23.27:638][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.05-18.23.27:638][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.05-18.23.27:660][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.08.05-18.23.27:872][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.05-18.23.27:973][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.05-18.23.27:973][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.05-18.23.27:973][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.05-18.23.27:973][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.05-18.23.27:973][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.05-18.23.27:985][  0]LogNetVersion: ProjectGun 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2086674415)
+[2020.08.05-18.23.28:422][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000013A08E31400), frame # 0
+[2020.08.05-18.23.28:422][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013A08D75D00), frame # 0
+[2020.08.05-18.23.28:424][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A08DBDE00), frame # 0
+[2020.08.05-18.23.28:490][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.060993 seconds
+[2020.08.05-18.23.28:495][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.08.05-18.23.28:495][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.08.05-18.23.28:495][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.05-18.23.28:788][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.05-18.23.28:792][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.05-18.23.28:856][  0]SourceControl: Source control is disabled
+[2020.08.05-18.23.28:856][  0]SourceControl: Source control is disabled
+[2020.08.05-18.23.28:858][  0]SourceControl: Source control is disabled
+[2020.08.05-18.23.28:861][  0]SourceControl: Source control is disabled
+[2020.08.05-18.23.28:866][  0]SourceControl: Source control is disabled
+[2020.08.05-18.23.29:071][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.05-18.23.29:088][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.05-18.23.29:088][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.05-18.23.29:133][  0]LogOcInput: OculusInput pre-init called
+[2020.08.05-18.23.29:142][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.05-18.23.29:142][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.05-18.23.29:195][  0]LogEngine: Initializing Engine...
+[2020.08.05-18.23.29:197][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.05-18.23.29:197][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.08.05-18.23.29:197][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.05-18.23.29:316][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.05-18.23.29:323][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.05-18.23.29:323][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A14C74600), frame # 0
+[2020.08.05-18.23.29:323][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013A14C8D080), frame # 0
+[2020.08.05-18.23.29:348][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.05-18.23.29:348][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.05-18.23.29:348][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.05-18.23.29:348][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.05-18.23.29:348][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.05-18.23.29:348][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.05-18.23.29:348][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.05-18.23.29:348][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.05-18.23.29:348][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.05-18.23.29:348][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.05-18.23.29:357][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-18.23.29:357][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-18.23.29:424][  0]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2020.08.05-18.23.29:428][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.05-18.23.29:430][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.05-18.23.29:430][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.05-18.23.29:431][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.05-18.23.29:432][  0]LogInit: FAudioDevice initialized.
+[2020.08.05-18.23.29:432][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.05-18.23.29:481][  0]LogDerivedDataCache: Saved boot cache 0.05s 75MB C:/Users/smybr/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.05-18.23.29:485][  0]LogInit: Texture streaming: Enabled
+[2020.08.05-18.23.29:498][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.05-18.23.29:498][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.05-18.23.29:500][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.05-18.23.29:547][  0]LogInit: Transaction tracking system initialized
+[2020.08.05-18.23.29:566][  0]BlueprintLog: New page: Editor Load
+[2020.08.05-18.23.29:624][  0]LocalizationService: Localization service is disabled
+[2020.08.05-18.23.29:771][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.05-18.23.29:771][  0]LogCook: Display: Mobile HDR setting 0
+[2020.08.05-18.23.29:890][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Content/' took 0.01s
+[2020.08.05-18.23.30:089][  0]SourceControl: Source control is disabled
+[2020.08.05-18.23.30:089][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.675
+[2020.08.05-18.23.30:090][  0]LightingResults: New page: Lighting Build
+[2020.08.05-18.23.30:090][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-18.23.30:090][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-18.23.30:090][  0]MapCheck: New page: Map Check
+[2020.08.05-18.23.30:090][  0]LightingResults: New page: Lighting Build
+[2020.08.05-18.23.30:101][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013A14C74600), frame # 0
+[2020.08.05-18.23.30:101][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013A14C8D080), frame # 0
+[2020.08.05-18.23.30:102][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.05-18.23.30:401][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.08.05-18.23.30:401][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A14FFDA00), frame # 0
+[2020.08.05-18.23.30:402][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013A156AC680), frame # 0
+[2020.08.05-18.23.30:410][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.05-18.23.30:438][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.05-18.23.30:438][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.05-18.23.30:438][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2020.08.05-18.23.30:439][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.349
+[2020.08.05-18.23.30:440][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.026
+[2020.08.05-18.23.30:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-18.23.30:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-18.23.30:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-18.23.30:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-18.23.30:656][  0]LogCollectionManager: Loaded 0 collections in 0.001670 seconds
+[2020.08.05-18.23.30:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Collections/' took 0.00s
+[2020.08.05-18.23.30:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Content/Developers/smybr/Collections/' took 0.00s
+[2020.08.05-18.23.30:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Content/Collections/' took 0.00s
+[2020.08.05-18.23.30:687][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 3427 classes and 821 folders.
+[2020.08.05-18.23.30:696][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.08.05-18.23.31:047][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.05-18.23.31:052][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.08.05-18.23.31:232][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.05-18.23.31:236][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.05-18.23.31:246][  0]LogSlate: Took 0.004921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.05-18.23.31:375][  0]LogRenderer: Reallocating scene render targets to support 740x408 Format 10 NumSamples 1 (Frame:1).
+[2020.08.05-18.23.31:517][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.05-18.23.31:517][  0]LogLoad: (Engine Initialization) Total time: 8.10 seconds
+[2020.08.05-18.23.31:517][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.05-18.23.31:562][  0]LogAssetRegistry: Asset discovery search completed in 3.9030 seconds
+[2020.08.05-18.23.31:569][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.08.05-18.23.31:571][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.05-18.23.31:632][  0]LogSlate: Took 0.006196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.05-18.23.41:527][585]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.05-18.23.41:587][585]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/Level1.Level1
+[2020.08.05-18.23.41:598][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.08.05-18.23.41:599][585]LightingResults: New page: Lighting Build
+[2020.08.05-18.23.41:599][585]LoadErrors: New page: Loading map: Level1.umap
+[2020.08.05-18.23.41:600][585]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-18.23.41:600][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-18.23.41:600][585]MapCheck: New page: Map Check
+[2020.08.05-18.23.41:600][585]LightingResults: New page: Lighting Build
+[2020.08.05-18.23.41:610][585]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013A14FFDA00), frame # 585
+[2020.08.05-18.23.41:610][585]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013A156AC680), frame # 585
+[2020.08.05-18.23.41:611][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.08.05-18.23.41:671][585]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.05-18.23.41:671][585]LogAIModule: Creating AISystem for world Level1
+[2020.08.05-18.23.41:671][585]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A31BA0600), frame # 585
+[2020.08.05-18.23.41:671][585]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013A156AD580), frame # 585
+[2020.08.05-18.23.41:681][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.08.05-18.23.41:705][585]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.05-18.23.41:705][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2020.08.05-18.23.41:705][585]LogFileHelpers: Loading map 'Level1' took 0.106
+[2020.08.05-18.23.43:604][693]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-18.23.43:619][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.05-18.23.43:619][693]PIE: New page: PIE session: Level1 (Aug 5, 2020, 10:23:43 AM)
+[2020.08.05-18.23.43:621][693]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.05-18.23.43:622][693]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.05-18.23.43:623][693]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-18.23.43:625][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002388s)
+[2020.08.05-18.23.43:626][693]LogAIModule: Creating AISystem for world Level1
+[2020.08.05-18.23.43:627][693]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A2A7A0200), frame # 693
+[2020.08.05-18.23.43:627][693]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013A14FC7240), frame # 693
+[2020.08.05-18.23.43:627][693]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2020.08.05-18.23.43:627][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level1.Level1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 (0.003938s)
+[2020.08.05-18.23.43:637][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.08.05-18.23.43:638][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.05-18.23.43:638][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.05-18.23.43:638][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.05-18.23.43:638][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.05-18.23.43:638][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.05-18.23.43:638][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.05-18.23.43:638][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.05-18.23.43:638][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.05-18.23.43:638][693]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.05-18.23.43:638][693]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.05-18.23.43:642][693]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-18.23.43:642][693]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-18.23.43:653][693]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2020.08.05-18.23.43:653][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.05-18.23.43:653][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.05-18.23.43:653][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.05-18.23.43:654][693]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.05-18.23.43:665][693]LogInit: FAudioDevice initialized.
+[2020.08.05-18.23.43:675][693]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.08.05-18.23.43:678][693]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.08.05-14.23.43
+[2020.08.05-18.23.43:678][693]LogWorld: Bringing up level for play took: 0.001080
+[2020.08.05-18.23.43:678][693]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.08.05-18.23.43:685][693]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.08.05-18.23.43:686][693]PIE: Server logged in
+[2020.08.05-18.23.43:688][693]PIE: Play in editor total start time 0.069 seconds.
+[2020.08.05-18.23.56:276][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-18.23.56:276][444]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-18.23.56:276][444]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-18.23.56:276][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-18.23.56:284][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-18.23.56:285][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-18.23.56:309][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-18.23.56:310][444]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013A14FC7240), frame # 1444
+[2020.08.05-18.23.56:310][444]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013A2A7A0200), frame # 1444
+[2020.08.05-18.23.56:311][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.08.05-18.23.56:339][445]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.08.05-18.24.33:528][661]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.08.05-18.24.34:013][661]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.08.05-18.24.34:950][661]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.05-18.24.35:127][662]LogSlate: Took 0.004526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.05-18.24.45:587][235]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.08.05-18.24.45:639][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.08.05-18.24.45:715][235]LogSlate: Took 0.007557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.05-18.25.22:245][362]LogEditorViewport: Clicking Background
+[2020.08.05-18.26.09:401][558]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.05-18.26.13:291][787]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScroller/Sprites/NewBlueprint.NewBlueprint
+[2020.08.05-18.26.13:690][788]LogRenderer: Reallocating scene render targets to support 788x408 Format 10 NumSamples 1 (Frame:1).
+[2020.08.05-18.26.45:927][686]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.08.05-18.26.45:935][686]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.08.05-18.26.45:954][686]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-18.26.45:954][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-18.26.46:007][686]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.05-18.26.46:007][686]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-18.26.46:007][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-18.26.50:107][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.08.05-18.26.51:313][917]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.05-18.26.51:423][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.08.05-18.27.03:505][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.08.05-18.33.54:573][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.08.05-18.33.54:609][435]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Level1_Auto1F30D7B9946AE6D6D3F711EB42144F030.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level1_Auto1.umap'
+[2020.08.05-18.33.54:615][435]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level1' took 0.064
+[2020.08.05-18.33.54:615][435]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.064
+[2020.08.05-18.33.54:615][435]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.08.05-18.33.54:615][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2020.08.05-18.33.54:655][435]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/2DSideScrollerCharacter_Auto17550E9F24E508FB8EAC31CA4C0E7D67E.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset'
+[2020.08.05-18.33.54:656][435]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.08.05-18.50.19:806][398]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.08.05-18.50.19:850][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.08.05-18.53.22:720][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.08.05-18.53.22:748][ 58]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Level1_Auto2B155A8374E8452F87E92DFB63A6D54AC.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level1_Auto2.umap'
+[2020.08.05-18.53.22:750][ 58]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level1' took 0.051
+[2020.08.05-18.53.22:750][ 58]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2020.08.05-18.53.22:750][ 58]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.08.05-18.53.22:750][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2020.08.05-18.53.22:784][ 58]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/2DSideScrollerCharacter_Auto2017E1EC04317A55C9C27CD96D82B1987.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto2.uasset'
+[2020.08.05-18.53.22:785][ 58]LogFileHelpers: Auto-saving content packages took 0.036
+[2020.08.05-19.03.38:262][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.05-19.03.38:264][937]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level1' took 0.024
+[2020.08.05-19.03.38:264][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.08.05-19.03.38:264][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2020.08.05-19.03.38:300][937]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/2DSideScrollerCharacter_Auto3CFAA8BCD4169ABE9C754D489E258C3D1.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto3.uasset'
+[2020.08.05-19.03.38:301][937]LogFileHelpers: Auto-saving content packages took 0.037
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B477560FE-480F-FEDC-B4DD-989CF91E4FAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=205a473340242489ce81079a01667d1c%7Cba25ea716df54fb1b44e0ec246108bc9%7C8fba83d6-fb36-4d17-b2ae-b61aebd92f8b&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x13a6ae87f70 [can pipeline])
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: libcurl info message cache 1 (Re-using existing connection! (#61) with host datarouter.ol.epicgames.com)
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.188.211) port 443 (#61))
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: 0000013A4ADEC800: libcurl info message cache 7 (Closing connection 61)
+[2020.08.05-20.56.50:742][214]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B477560FE-480F-FEDC-B4DD-989CF91E4FAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=205a473340242489ce81079a01667d1c%7Cba25ea716df54fb1b44e0ec246108bc9%7C8fba83d6-fb36-4d17-b2ae-b61aebd92f8b&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.08.05-21.29.33:654][706]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.08.05-21.29.33:727][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.08.05-21.29.37:564][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-21.29.37:586][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.05-21.29.37:587][ 32]PIE: New page: PIE session: Level1 (Aug 5, 2020, 1:29:37 PM)
+[2020.08.05-21.29.37:587][ 32]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-21.29.37:590][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003431s)
+[2020.08.05-21.29.37:592][ 32]LogAIModule: Creating AISystem for world Level1
+[2020.08.05-21.29.37:592][ 32]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A47C60C00), frame # 675032
+[2020.08.05-21.29.37:593][ 32]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013A85818900), frame # 675032
+[2020.08.05-21.29.37:593][ 32]LogPlayLevel: PIE: World Init took: (0.002319s)
+[2020.08.05-21.29.37:593][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level1.Level1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 (0.005909s)
+[2020.08.05-21.29.37:621][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.08.05-21.29.37:624][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.05-21.29.37:624][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.05-21.29.37:624][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.05-21.29.37:624][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.05-21.29.37:624][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.05-21.29.37:624][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.05-21.29.37:624][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.05-21.29.37:624][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.05-21.29.37:624][ 32]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.05-21.29.37:624][ 32]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.05-21.29.37:631][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-21.29.37:631][ 32]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-21.29.37:650][ 32]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2020.08.05-21.29.37:651][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.05-21.29.37:651][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.05-21.29.37:651][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.05-21.29.37:651][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.05-21.29.37:668][ 32]LogInit: FAudioDevice initialized.
+[2020.08.05-21.29.37:680][ 32]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.08.05-21.29.37:681][ 32]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.08.05-17.29.37
+[2020.08.05-21.29.37:681][ 32]LogWorld: Bringing up level for play took: 0.000701
+[2020.08.05-21.29.37:682][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.08.05-21.29.37:684][ 32]PIE: Server logged in
+[2020.08.05-21.29.37:685][ 32]PIE: Play in editor total start time 0.099 seconds.
+[2020.08.05-21.29.42:894][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-21.29.42:894][650]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-21.29.42:894][650]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-21.29.42:895][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-21.29.42:900][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-21.29.42:904][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-21.29.42:951][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-21.29.42:952][650]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013A85818900), frame # 675650
+[2020.08.05-21.29.42:952][650]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013A47C60C00), frame # 675650
+[2020.08.05-21.29.42:955][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.08.05-21.29.42:996][651]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.08.05-21.30.16:029][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.08.05-21.30.16:066][582]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Level1_Auto4198BAE26435782A977BAD69CDC866662.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level1_Auto4.umap'
+[2020.08.05-21.30.16:071][582]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level1' took 0.061
+[2020.08.05-21.30.16:071][582]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.061
+[2020.08.05-21.30.16:071][582]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.08.05-21.30.16:071][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2020.08.05-21.30.16:104][582]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/2DSideScrollerCharacter_Auto4A581095643681E74BA75F79C989A41A9.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto4.uasset'
+[2020.08.05-21.30.16:105][582]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.08.05-21.56.30:667][192]LogTemp: Resetting audio stream to device id 
+[2020.08.05-21.56.30:709][192]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-21.56.30:709][192]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-22.11.17:192][209]LogTemp: Resetting audio stream to device id 
+[2020.08.05-22.11.17:341][209]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-22.11.17:341][209]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B477560FE-480F-FEDC-B4DD-989CF91E4FAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=205a473340242489ce81079a01667d1c%7Cba25ea716df54fb1b44e0ec246108bc9%7C8fba83d6-fb36-4d17-b2ae-b61aebd92f8b&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x13a6ae87f70 [can pipeline])
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: libcurl info message cache 1 (Re-using existing connection! (#85) with host datarouter.ol.epicgames.com)
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.60.94) port 443 (#85))
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: 0000013A4BF0C800: libcurl info message cache 7 (Closing connection 85)
+[2020.08.05-22.11.17:821][212]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B477560FE-480F-FEDC-B4DD-989CF91E4FAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=205a473340242489ce81079a01667d1c%7Cba25ea716df54fb1b44e0ec246108bc9%7C8fba83d6-fb36-4d17-b2ae-b61aebd92f8b&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.08.05-22.12.01:248][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.05-22.12.01:275][476]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Level1266CF62C43EDE53A997F57AE844A0E31.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Content/2DSideScrollerBP/Maps/Level1.umap'
+[2020.08.05-22.12.01:323][476]AssetCheck: New page: Asset Save: Level1
+[2020.08.05-22.12.01:323][476]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level1.Level1
+[2020.08.05-22.12.04:891][674]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-22.12.04:908][674]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.05-22.12.04:908][674]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerCharacter before play...
+[2020.08.05-22.12.04:965][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.08.05-22.12.04:966][674]LogPlayLevel: PlayLevel: Blueprint regeneration took 59 ms (1 blueprints)
+[2020.08.05-22.12.04:966][674]PIE: New page: PIE session: Level1 (Aug 5, 2020, 2:12:04 PM)
+[2020.08.05-22.12.04:967][674]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.12.04:969][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002063s)
+[2020.08.05-22.12.04:969][674]LogAIModule: Creating AISystem for world Level1
+[2020.08.05-22.12.04:969][674]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A4A471A00), frame # 790674
+[2020.08.05-22.12.04:969][674]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013A9C8C1580), frame # 790674
+[2020.08.05-22.12.04:970][674]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2020.08.05-22.12.04:970][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level1.Level1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 (0.003131s)
+[2020.08.05-22.12.04:989][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.08.05-22.12.04:990][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.05-22.12.04:990][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.05-22.12.04:990][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.05-22.12.04:990][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.05-22.12.04:990][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.05-22.12.04:990][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.05-22.12.04:990][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.05-22.12.04:990][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.05-22.12.04:990][674]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.05-22.12.04:990][674]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.05-22.12.04:994][674]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-22.12.04:994][674]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-22.12.05:006][674]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2020.08.05-22.12.05:006][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.05-22.12.05:007][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.05-22.12.05:007][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.05-22.12.05:008][674]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.05-22.12.05:018][674]LogInit: FAudioDevice initialized.
+[2020.08.05-22.12.05:025][674]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.08.05-22.12.05:027][674]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.08.05-18.12.05
+[2020.08.05-22.12.05:027][674]LogWorld: Bringing up level for play took: 0.000566
+[2020.08.05-22.12.05:027][674]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.08.05-22.12.05:029][674]PIE: Server logged in
+[2020.08.05-22.12.05:030][674]PIE: Play in editor total start time 0.124 seconds.
+[2020.08.05-22.12.17:207][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.12.17:207][402]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.12.17:207][402]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-22.12.17:207][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.12.17:218][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-22.12.17:221][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.12.17:240][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.12.17:255][402]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013A9C8C1580), frame # 791402
+[2020.08.05-22.12.17:255][402]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013A4A471A00), frame # 791402
+[2020.08.05-22.12.17:257][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.08.05-22.12.17:287][403]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.08.05-22.12.40:603][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.08.05-22.12.40:629][729]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Level1DA4326BE4BD7AFB56ED4C39286DC337D.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Content/2DSideScrollerBP/Maps/Level1.umap'
+[2020.08.05-22.12.40:671][729]AssetCheck: New page: Asset Save: Level1
+[2020.08.05-22.12.40:671][729]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level1.Level1
+[2020.08.05-22.12.41:744][793]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.08.05-22.12.41:753][793]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.08.05-22.12.41:762][793]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-22.12.41:762][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.12.42:906][854]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-22.12.42:919][854]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.05-22.12.42:920][854]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerCharacter before play...
+[2020.08.05-22.12.42:962][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.08.05-22.12.42:963][854]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2020.08.05-22.12.42:963][854]PIE: New page: PIE session: Level1 (Aug 5, 2020, 2:12:42 PM)
+[2020.08.05-22.12.42:963][854]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.12.42:966][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002179s)
+[2020.08.05-22.12.42:966][854]LogAIModule: Creating AISystem for world Level1
+[2020.08.05-22.12.42:967][854]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A4B26CE00), frame # 792854
+[2020.08.05-22.12.42:967][854]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013A8581B4C0), frame # 792854
+[2020.08.05-22.12.42:967][854]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2020.08.05-22.12.42:967][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level1.Level1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 (0.003271s)
+[2020.08.05-22.12.42:984][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.08.05-22.12.42:985][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.05-22.12.42:985][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.05-22.12.42:985][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.05-22.12.42:985][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.05-22.12.42:985][854]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.05-22.12.42:985][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.05-22.12.42:985][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.05-22.12.42:985][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.05-22.12.42:985][854]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.05-22.12.42:985][854]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.05-22.12.42:989][854]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-22.12.42:990][854]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-22.12.43:003][854]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2020.08.05-22.12.43:003][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.05-22.12.43:003][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.05-22.12.43:003][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.05-22.12.43:003][854]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.05-22.12.43:015][854]LogInit: FAudioDevice initialized.
+[2020.08.05-22.12.43:025][854]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.08.05-22.12.43:026][854]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.08.05-18.12.43
+[2020.08.05-22.12.43:027][854]LogWorld: Bringing up level for play took: 0.000727
+[2020.08.05-22.12.43:027][854]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.08.05-22.12.43:029][854]PIE: Server logged in
+[2020.08.05-22.12.43:030][854]PIE: Play in editor total start time 0.111 seconds.
+[2020.08.05-22.12.47:128][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.12.47:128][ 97]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.12.47:128][ 97]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-22.12.47:128][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.12.47:136][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-22.12.47:142][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.12.47:159][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.12.47:173][ 97]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013A8581B4C0), frame # 793097
+[2020.08.05-22.12.47:173][ 97]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013A4B26CE00), frame # 793097
+[2020.08.05-22.12.47:175][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.08.05-22.12.47:213][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.08.05-22.12.48:380][163]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.08.05-22.15.15:435][525]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.08.05-22.15.15:478][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.08.05-22.15.16:729][589]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/2DSideScrollerCharacterA1522DA845BA2672DDE666B6538B232A.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2020.08.05-22.15.16:754][589]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.08.05-22.15.16:754][589]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.08.05-22.15.18:296][675]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.08.05-22.15.18:303][675]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.08.05-22.15.18:304][675]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-22.15.18:304][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.15.19:485][738]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-22.15.19:498][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.05-22.15.19:498][738]PIE: New page: PIE session: Level1 (Aug 5, 2020, 2:15:19 PM)
+[2020.08.05-22.15.19:498][738]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.15.19:500][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001960s)
+[2020.08.05-22.15.19:501][738]LogAIModule: Creating AISystem for world Level1
+[2020.08.05-22.15.19:501][738]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A32489A00), frame # 801738
+[2020.08.05-22.15.19:501][738]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013A8227B240), frame # 801738
+[2020.08.05-22.15.19:501][738]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2020.08.05-22.15.19:501][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level1.Level1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 (0.003100s)
+[2020.08.05-22.15.19:520][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.08.05-22.15.19:522][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.05-22.15.19:522][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.05-22.15.19:522][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.05-22.15.19:522][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.05-22.15.19:522][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.05-22.15.19:522][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.05-22.15.19:522][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.05-22.15.19:522][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.05-22.15.19:522][738]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.05-22.15.19:522][738]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.05-22.15.19:527][738]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-22.15.19:527][738]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-22.15.19:539][738]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2020.08.05-22.15.19:539][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.05-22.15.19:539][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.05-22.15.19:539][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.05-22.15.19:540][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.05-22.15.19:552][738]LogInit: FAudioDevice initialized.
+[2020.08.05-22.15.19:563][738]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.08.05-22.15.19:565][738]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.08.05-18.15.19
+[2020.08.05-22.15.19:565][738]LogWorld: Bringing up level for play took: 0.000595
+[2020.08.05-22.15.19:565][738]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.08.05-22.15.19:567][738]PIE: Server logged in
+[2020.08.05-22.15.19:568][738]PIE: Play in editor total start time 0.071 seconds.
+[2020.08.05-22.15.25:358][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.15.25:358][ 82]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.15.25:358][ 82]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-22.15.25:358][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.15.25:370][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-22.15.25:373][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.15.25:403][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.15.25:404][ 82]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013A8227B240), frame # 802082
+[2020.08.05-22.15.25:404][ 82]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013A32489A00), frame # 802082
+[2020.08.05-22.15.25:406][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.08.05-22.15.25:436][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.08.05-22.15.27:273][189]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.08.05-22.23.48:373][263]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.08.05-22.23.48:438][263]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.08.05-22.23.49:409][310]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/2DSideScrollerCharacterC50FACDA4114B4F15EF609975661DC05.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2020.08.05-22.23.49:422][310]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.08.05-22.23.49:422][310]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.08.05-22.23.53:340][538]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-22.23.53:353][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.05-22.23.53:353][538]PIE: New page: PIE session: Level1 (Aug 5, 2020, 2:23:53 PM)
+[2020.08.05-22.23.53:387][538]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.23.53:389][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002038s)
+[2020.08.05-22.23.53:390][538]LogAIModule: Creating AISystem for world Level1
+[2020.08.05-22.23.53:390][538]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013AAF75AE00), frame # 830538
+[2020.08.05-22.23.53:390][538]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013AAEDF4900), frame # 830538
+[2020.08.05-22.23.53:390][538]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2020.08.05-22.23.53:390][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level1.Level1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 (0.003103s)
+[2020.08.05-22.23.53:410][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.08.05-22.23.53:411][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.05-22.23.53:411][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.05-22.23.53:411][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.05-22.23.53:411][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.05-22.23.53:411][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.05-22.23.53:411][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.05-22.23.53:411][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.05-22.23.53:411][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.05-22.23.53:411][538]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.05-22.23.53:411][538]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.05-22.23.53:416][538]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-22.23.53:416][538]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-22.23.53:431][538]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2020.08.05-22.23.53:431][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.05-22.23.53:431][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.05-22.23.53:431][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.05-22.23.53:431][538]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.05-22.23.53:443][538]LogInit: FAudioDevice initialized.
+[2020.08.05-22.23.53:451][538]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.08.05-22.23.53:452][538]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.08.05-18.23.53
+[2020.08.05-22.23.53:452][538]LogWorld: Bringing up level for play took: 0.000558
+[2020.08.05-22.23.53:452][538]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.08.05-22.23.53:454][538]PIE: Server logged in
+[2020.08.05-22.23.53:455][538]PIE: Play in editor total start time 0.103 seconds.
+[2020.08.05-22.23.58:238][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.23.58:239][822]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.23.58:239][822]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-22.23.58:239][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.23.58:253][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-22.23.58:258][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.23.58:295][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.23.58:296][822]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013AAEDF4900), frame # 830822
+[2020.08.05-22.23.58:296][822]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013AAF75AE00), frame # 830822
+[2020.08.05-22.23.58:298][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.08.05-22.23.58:325][823]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.08.05-22.24.44:071][563]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.08.05-22.24.44:112][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.08.05-22.24.44:922][603]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/2DSideScrollerCharacter25DA60C34C560B90BDFEACB42AA9765A.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2020.08.05-22.24.44:938][603]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.08.05-22.24.44:938][603]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.08.05-22.24.47:450][743]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-22.24.47:463][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.05-22.24.47:463][743]PIE: New page: PIE session: Level1 (Aug 5, 2020, 2:24:47 PM)
+[2020.08.05-22.24.47:463][743]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.24.47:465][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001962s)
+[2020.08.05-22.24.47:466][743]LogAIModule: Creating AISystem for world Level1
+[2020.08.05-22.24.47:467][743]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013A4B0E6000), frame # 833743
+[2020.08.05-22.24.47:467][743]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013AB1B12700), frame # 833743
+[2020.08.05-22.24.47:467][743]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2020.08.05-22.24.47:467][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level1.Level1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 (0.003267s)
+[2020.08.05-22.24.47:489][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.08.05-22.24.47:489][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.05-22.24.47:490][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.05-22.24.47:490][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.05-22.24.47:490][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.05-22.24.47:490][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.05-22.24.47:490][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.05-22.24.47:490][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.05-22.24.47:490][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.05-22.24.47:490][743]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.05-22.24.47:490][743]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.05-22.24.47:494][743]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-22.24.47:494][743]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-22.24.47:504][743]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2020.08.05-22.24.47:504][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.05-22.24.47:505][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.05-22.24.47:505][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.05-22.24.47:505][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.05-22.24.47:516][743]LogInit: FAudioDevice initialized.
+[2020.08.05-22.24.47:527][743]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.08.05-22.24.47:529][743]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.08.05-18.24.47
+[2020.08.05-22.24.47:529][743]LogWorld: Bringing up level for play took: 0.000720
+[2020.08.05-22.24.47:529][743]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.08.05-22.24.47:532][743]PIE: Server logged in
+[2020.08.05-22.24.47:532][743]PIE: Play in editor total start time 0.069 seconds.
+[2020.08.05-22.24.52:657][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.24.52:657][ 47]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.24.52:658][ 47]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-22.24.52:658][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.24.52:671][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-22.24.52:676][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.24.52:729][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.24.52:729][ 47]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013AB1B12700), frame # 834047
+[2020.08.05-22.24.52:729][ 47]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013A4B0E6000), frame # 834047
+[2020.08.05-22.24.52:731][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.08.05-22.24.52:770][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.08.05-22.25.46:920][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.08.05-22.25.46:953][320]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Level1_Auto5994D69084CF608EE67E1F1800F4C280E.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level1_Auto5.umap'
+[2020.08.05-22.25.46:955][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level1' took 0.056
+[2020.08.05-22.25.46:955][320]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2020.08.05-22.27.32:814][882]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.08.05-22.27.32:863][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.08.05-22.27.33:555][912]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/2DSideScrollerCharacter41539CBF4102A8C2F8CEE0B7E024D473.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2020.08.05-22.27.33:575][912]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.08.05-22.27.33:575][912]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.08.05-22.27.35:695][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-22.27.35:709][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.05-22.27.35:709][ 31]PIE: New page: PIE session: Level1 (Aug 5, 2020, 2:27:35 PM)
+[2020.08.05-22.27.35:709][ 31]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.27.35:711][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002051s)
+[2020.08.05-22.27.35:712][ 31]LogAIModule: Creating AISystem for world Level1
+[2020.08.05-22.27.35:712][ 31]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013AA05A9000), frame # 839031
+[2020.08.05-22.27.35:712][ 31]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000013AAEDF7C40), frame # 839031
+[2020.08.05-22.27.35:712][ 31]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2020.08.05-22.27.35:712][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level1.Level1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 (0.003155s)
+[2020.08.05-22.27.35:732][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.08.05-22.27.35:734][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.05-22.27.35:734][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.05-22.27.35:734][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.05-22.27.35:734][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.05-22.27.35:734][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.05-22.27.35:734][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.05-22.27.35:734][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.05-22.27.35:734][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.05-22.27.35:734][ 31]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.05-22.27.35:735][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.05-22.27.35:739][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-22.27.35:739][ 31]LogAudioMixer: Display: 1: FrontRight
+[2020.08.05-22.27.35:751][ 31]LogAudioMixer: Display: Using Audio Device Speakers (Apple Audio Device)
+[2020.08.05-22.27.35:751][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.05-22.27.35:751][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.05-22.27.35:751][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.05-22.27.35:752][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.05-22.27.35:763][ 31]LogInit: FAudioDevice initialized.
+[2020.08.05-22.27.35:772][ 31]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.08.05-22.27.35:773][ 31]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.08.05-18.27.35
+[2020.08.05-22.27.35:773][ 31]LogWorld: Bringing up level for play took: 0.000860
+[2020.08.05-22.27.35:774][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.08.05-22.27.35:775][ 31]PIE: Server logged in
+[2020.08.05-22.27.35:776][ 31]PIE: Play in editor total start time 0.068 seconds.
+[2020.08.05-22.27.46:557][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.27.46:557][675]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level1
+[2020.08.05-22.27.46:557][675]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-22.27.46:557][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.27.46:564][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-22.27.46:570][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-22.27.46:602][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-22.27.46:603][675]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000013AAEDF7C40), frame # 839675
+[2020.08.05-22.27.46:603][675]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013AA05A9000), frame # 839675
+[2020.08.05-22.27.46:604][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.08.05-22.27.46:635][676]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.08.05-22.31.22:247][ 16]LogSlate: Took 0.005690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.05-22.35.58:185][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.08.05-22.35.58:214][  0]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Level1_Auto613043332484F82949EFA50A3CB6F06CC.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level1_Auto6.umap'
+[2020.08.05-22.35.58:216][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level1' took 0.051
+[2020.08.05-22.35.58:216][  0]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2020.08.05-22.35.58:216][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.08.05-22.35.58:216][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2020.08.05-22.35.58:249][  0]LogSavePackage: Moving '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/2DSideScrollerCharacter_Auto6F99E445A453F4788A43A4DA3524892CC.tmp' to '../../../../../../Users/smybr/Documents/School projects/Smy-Amosa-GameEngines2-FinalProject/ProjectGun/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto6.uasset'
+[2020.08.05-22.35.58:250][  0]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.08.05-22.36.00:469][ 43]LogTemp: Resetting audio stream to device id 
+[2020.08.05-22.36.00:510][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.05-22.36.00:510][ 43]LogAudioMixer: Display: 1: FrontRight
+[2020.08.06-01.36.08:455][ 56]LogTemp: Resetting audio stream to device id 
+[2020.08.06-01.36.08:510][ 56]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.06-01.36.08:510][ 56]LogAudioMixer: Display: 1: FrontRight
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B477560FE-480F-FEDC-B4DD-989CF91E4FAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=205a473340242489ce81079a01667d1c%7Cba25ea716df54fb1b44e0ec246108bc9%7C8fba83d6-fb36-4d17-b2ae-b61aebd92f8b&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x13a6ae87f70 [can pipeline])
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: libcurl info message cache 1 (Re-using existing connection! (#97) with host datarouter.ol.epicgames.com)
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.194.221.162) port 443 (#97))
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.08.06-01.36.09:116][ 59]LogHttp: Warning: 0000013AC587F200: libcurl info message cache 7 (Closing connection 97)
+[2020.08.06-01.36.09:457][ 60]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B477560FE-480F-FEDC-B4DD-989CF91E4FAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=205a473340242489ce81079a01667d1c%7Cba25ea716df54fb1b44e0ec246108bc9%7C8fba83d6-fb36-4d17-b2ae-b61aebd92f8b&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.08.10-18.00.02:679][ 67]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.10-18.00.03:015][ 67]LogTemp: Resetting audio stream to device id 
+[2020.08.10-18.00.08:522][ 67]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.10-18.00.08:522][ 67]LogAudioMixer: Display: 1: FrontRight
